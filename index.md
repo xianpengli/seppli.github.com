@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CV of Xianpeng LI
 
 You can use the [editor on GitHub](https://github.com/xianpengli/seppli.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
