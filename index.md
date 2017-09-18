@@ -26,9 +26,11 @@ My principal supervisor is Professor Jiyan Zou and I am responsible for the anal
  * Experiment research on Current chopping on zero period of DC Vacuum Circuit Breaker breaking(first author)
  * Analysis of Action Process of ZnO Arrester in HVDC Vacuum Circuit Breaker (third author)
  * All above are conference papers: 4th International Conference on Electric Power Equipment–Switching Technology (4TH ICEPE-ST). Xi’an, China. Oct 22nd~25th, 2017. (Papers will be included in IEEE Xplore and EI)
+
 ### Under Review:
  * Post-arc Current Measurement and Characteristic Analysis of DC Vacuum Circuit Breaker (in Chinese, first author)
  * This is journal paper: High Voltage Engineering (Chinese webpage, EI)
+
 ## Skills and Qualifications
  * Familiar with the synthetic test circuit and high voltage test transformer
  * Proficient in fast electromagnetic repulsion mechanism and circuit breakers
@@ -40,6 +42,7 @@ My principal supervisor is Professor Jiyan Zou and I am responsible for the anal
      * Application of Electronic Technique Engineer (No.C1427J07S6700190)
      * Second-level Certificate for National Computer Rank Examination (C programming language, No.24363702171373)
      * Driver’s License
+
 ## Awards and Honors
  * Qingdao University Scholarship (5 times)
  * School Excellent Student in 2013
@@ -47,13 +50,15 @@ My principal supervisor is Professor Jiyan Zou and I am responsible for the anal
  * 8th Qingdao University Electronic Design Contest, Third prize
  * National Undergraduate Electronic Design Contest 2013, Third prize in Shandong Province
  * Second class of National Scholarship for Graduate students
+
 ## References
  * Prof. Dr. Jiyan Zou (Supervisor)
      * Email: jyzou@dlut.edu.cn
  * Prof. Dr. Yongxing Wang
      * Email: yxwang@dlut.edu.cn
  * Prof. Dr. Enyuan Dong
-     * Email: dey@dlut.edu.cn<br>
+     * Email: dey@dlut.edu.cn
+
 **Address**
 School of Electrical Engineering, Building A3-31, Dalian University of Technology, No.2, Linggong Road, Ganjingzi District, Dalian City, Liaoning Province, China
 
