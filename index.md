@@ -1,4 +1,7 @@
 # Xianpeng LI 李显鹏
+
+![](https://github.com/xianpengli/seppli.github.com/blob/master/images/my_photo.jpg)
+
 ## Basic Information
  **Nationality:** China<br>
  **Birthday:** January 18, 1993<br>
