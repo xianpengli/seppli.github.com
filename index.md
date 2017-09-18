@@ -9,14 +9,14 @@
 I am investigating the DC current zero phenomena of circuit breakers, which is part of HVDC circuit breaker prototype manufacturing project carried out by the School of Electrical Engineering supported by the Key Program of National Natural Science Foundation of China.
 My principal supervisor is Professor Jiyan Zou and I am responsible for the analysis of post-arc current and current chop phenomena by simulations and conducting experiments.
 ## Education
-| Year      | School       |  Degree |
-| :--------:| :---------:  | :----:  |
-| 2011-2015|**Full-time student**<br>Qingdao University<br>Qingdao, China|B.Eng. in ElectricalEngineering and Automation|
-| 2015-2018|**Full-time student**<br>Dalian University of Technology<br>Dalian, China|M.Eng. in Electrical Engineering|
+ | Year      | School       |  Degree | 
+ | :--------:| :---------:  | :----:  | 
+ | 2011-2015|**Full-time student**<br>Qingdao University<br>Qingdao, China|B.Eng. in ElectricalEngineering and Automation|
+ | 2015-2018|**Full-time student**<br>Dalian University of Technology<br>Dalian, China|M.Eng. in Electrical Engineering|
 ## Project
-| Year      | Project      |
-|:--------|:---------|
-|2012-2013|**National Undergraduate Electronic Design Contest 2013: Rotary Inverted Pendulum**<br>*Instructor Prof. Yan Yang*<br> * Design motor drive circuit, write MSP430F2616 MCU control program|
-|2015-2018|**The Key Program of National Natural Science Foundation of China: Research on HVDC Fault Current Breaking Theory Based on Intelligence Module Technology**<br>*Project leader: Prof. Jiyan Zou*<br> * Cooperation unit: DaLian JiaoTong University, Shenyang University of Technology(Chinses webpage)<br> * Simulate sheath developing process based on continuous transition model by Matlab<br> * Use resistance-transfer method to measure post-arc current<br> * Design test circuit and carry out the experiment of current chop measurement|
-|2015-2018|**Program of National Natural Science Foundation of China: Research on Breaking Strategy and Regulation Mechanism of Current Transforming in Vacuum**<br>*Project leader: Prof. Enyuan Dong*<br> * Assemble, maintain and test the characteristic curves of fast electromagnetic repulsive mechanism<br> * Assemble circuit breaker, adjust over stroke and design the drive circuit of mechanism|
-|2017-2018|**2017 Headquarters’ Science and Technology Project of State Grid Corporation of China**<br>*Project leader: Prof. Jiyan Zou*<br> * Fine simulation (simulation step 1 nanosecond), measure and analyze the current zero phenomena of vacuum circuit breakers|
+ | Year      | Project      | 
+ |:--------|:---------| 
+ |2012-2013|**National Undergraduate Electronic Design Contest 2013: Rotary Inverted Pendulum**<br>*Instructor Prof. Yan Yang*<br> * Design motor drive circuit, write MSP430F2616 MCU control program|
+ |2015-2018|**The Key Program of National Natural Science Foundation of China: Research on HVDC Fault Current Breaking Theory Based on Intelligence Module Technology**<br>*Project leader: Prof. Jiyan Zou*<br> * Cooperation unit: DaLian JiaoTong University, Shenyang University of Technology(Chinses webpage)<br> * Simulate sheath developing process based on continuous transition model by Matlab<br> * Use resistance-transfer method to measure post-arc current<br> * Design test circuit and carry out the experiment of current chop measurement|
+ |2015-2018|**Program of National Natural Science Foundation of China: Research on Breaking Strategy and Regulation Mechanism of Current Transforming in Vacuum**<br>*Project leader: Prof. Enyuan Dong*<br> * Assemble, maintain and test the characteristic curves of fast electromagnetic repulsive mechanism<br> * Assemble circuit breaker, adjust over stroke and design the drive circuit of mechanism|
+ |2017-2018|**2017 Headquarters’ Science and Technology Project of State Grid Corporation of China**<br>*Project leader: Prof. Jiyan Zou*<br> * Fine simulation (simulation step 1 nanosecond), measure and analyze the current zero phenomena of vacuum circuit breakers|
