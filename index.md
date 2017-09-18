@@ -4,34 +4,20 @@ You can use the [editor on GitHub](https://github.com/xianpengli/seppli.github.c
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#Xianpeng LI
+##Basic Information
+    **Nationality:** China
+    **Birthday:** January 18, 1993
+    **Email:** xianpengli.cn@gmail.com
+    **Mobile:** +86 183 4220 9029
+    **Address:** School of Electrical Engineering, Dalian University of Technology, No.2, Linggong Road, Ganjingzi District, Dalian City, Liaoning Province, China
+##Current Research
+    I am investigating the DC current zero phenomena of circuit breakers, which is part of HVDC circuit breaker prototype manufacturing project carried out by the School of Electrical Engineering supported by the Key Program of National Natural Science Foundation of China.
+    My principal supervisor is Professor Jiyan Zou and I am responsible for the analysis of post-arc current and current chop phenomena by simulations and conducting experiments.
+##Education
+| Year      | School   |  Degree  |
+| :--------:| :---------:  | :----:  |
+| 2011-2015|**Full-time student**<br>Qingdao University<br>Qingdao, China|B.Eng. in ElectricalEngineering and Automation|
+| 2015-2018|**Full-time student**<br>Dalian University of Technology<br>Dalian, China|M.Eng. in Electrical Engineering|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xianpengli/seppli.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
