@@ -1,4 +1,4 @@
-# Xianpeng LI    李显鹏
+# Xianpeng LI 李显鹏
 
 ![](https://github.com/xianpengli/seppli.github.com/blob/master/images/my_photo.jpg)
 
