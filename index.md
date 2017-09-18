@@ -26,10 +26,10 @@ My principal supervisor is Professor Jiyan Zou and I am responsible for the anal
  * Experiment research on Current chopping on zero period of DC Vacuum Circuit Breaker breaking(first author)
  * Analysis of Action Process of ZnO Arrester in HVDC Vacuum Circuit Breaker (third author)
  * All above are conference papers: 4th International Conference on Electric Power Equipment–Switching Technology (4TH ICEPE-ST). Xi’an, China. Oct 22nd~25th, 2017. (Papers will be included in IEEE Xplore and EI)
- ### Under Review:
+### Under Review:
  * Post-arc Current Measurement and Characteristic Analysis of DC Vacuum Circuit Breaker (in Chinese, first author)
  * This is journal paper: High Voltage Engineering (Chinese webpage, EI)
- ## Skills and Qualifications
+## Skills and Qualifications
  * Familiar with the synthetic test circuit and high voltage test transformer
  * Proficient in fast electromagnetic repulsion mechanism and circuit breakers
  * Software: Microsoft Office, Matlab, Auto CAD, Altium Designer
@@ -47,7 +47,7 @@ My principal supervisor is Professor Jiyan Zou and I am responsible for the anal
  * 8th Qingdao University Electronic Design Contest, Third prize
  * National Undergraduate Electronic Design Contest 2013, Third prize in Shandong Province
  * Second class of National Scholarship for Graduate students
- ## References
+## References
  * Prof. Dr. Jiyan Zou (Supervisor)
      * Email: jyzou@dlut.edu.cn
  * Prof. Dr. Yongxing Wang
