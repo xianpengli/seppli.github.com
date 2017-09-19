@@ -2,6 +2,8 @@
 
 ![](https://github.com/xianpengli/seppli.github.com/blob/master/images/my_photo.jpg)
 
+**This is a simplified version, for more information please [click here download pdf](https://github.com/xianpengli/seppli.github.com/blob/master/doc/CV-XianpengLI.pdf)**
+
 ## Basic Information
  **Nationality:** China<br>
  **Birthday:** January 18, 1993<br>
@@ -17,7 +19,7 @@
 
 | Year  | School |  Degree |
 | :--------: | :---------:  | :----: |
-| 2011-2015 | **Full-time student**<br>[Qingdao University](http://english.qdu.edu.cn/)<br>Qingdao, China | B.Eng. in ElectricalEngineering and Automation |
+| 2011-2015 | **Full-time student**<br>[Qingdao University](http://english.qdu.edu.cn/)<br>Qingdao, China | B.Eng. in Electrical Engineering and Automation |
 | 2015-2018 | **Full-time student**<br>[Dalian University of Technology](http://en.dlut.edu.cn/)<br>Dalian, China | M.Eng. in Electrical Engineering |
 
 ## Project
