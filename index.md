@@ -1,6 +1,6 @@
 # Xianpeng LI 李显鹏
 
-![](https://github.com/xianpengli/seppli.github.com/blob/master/images/my_photo.jpg)
+![](https://farm5.staticflickr.com/4376/36918635960_1596c107bc_o.jpg)
 
 ---
 **This is a simplified version, for more information please [click here download pdf](https://github.com/xianpengli/seppli.github.com/blob/master/doc/CV-XianpengLI.pdf)**
