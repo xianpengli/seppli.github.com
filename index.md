@@ -18,7 +18,7 @@
  ---
  
 ## Current Research
- * I am investigating the DC current zero phenomena of circuit breakers, which is part of HVDC circuit breaker prototype manufacturing project carried out by the School of Electrical Engineering supported by the Key Program of National Natural Science Foundation of China.
+ * I am investigating the DC current zero phenomena of circuit breakers, which is a part of HVDC circuit breaker prototype manufacturing project carried out by the School of Electrical Engineering supported by the Key Program of National Natural Science Foundation of China.
  * My principal supervisor is Professor Jiyan Zou and I am responsible for the analysis of post-arc current and current chop phenomena by simulations and conducting experiments.
 
 ---
