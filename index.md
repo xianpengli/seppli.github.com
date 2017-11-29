@@ -47,10 +47,6 @@
  * Analysis of Action Process of ZnO Arrester in HVDC Vacuum Circuit Breaker (third author)
  * All above are conference papers: 4th International Conference on Electric Power Equipment–Switching Technology ([4TH ICEPE-ST](http://www.icepe2017.org/)). Xi’an, China. Oct 22nd~25th, 2017. (Papers will be included in IEEE Xplore and EI)
 
-### Under Review:
- * Post-arc Current Measurement and Characteristic Analysis of DC Vacuum Circuit Breaker (in Chinese, first author)
- * This is journal paper: [High Voltage Engineering](http://hve.epri.sgcc.com.cn/) (Chinese webpage, EI)
-
 ---
 
 ## Skills and Qualifications
